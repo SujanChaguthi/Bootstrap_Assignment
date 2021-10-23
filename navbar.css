@@ -1,6 +1,7 @@
 body {
   padding-bottom: 20px;
-}
+  font-family: 'Neo Sans Std TR', sans-serif;
+  }
 
 .navbar {
   margin-bottom: 20px;
@@ -34,3 +35,4 @@ body {
 .myProfile img {
   width: 100%;
 }
+
